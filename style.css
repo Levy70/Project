@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #searchInput {
+    width: 200px;
+    margin-bottom: 10px;
+  }
+  
+  #userList {
+    margin-top: 20px;
+  }
+  
+  .user {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
